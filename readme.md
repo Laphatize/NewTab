@@ -4,3 +4,4 @@ New Tab is a simple minimalistic page that shows you only relevant things. It’
 ## What does New Tab rely on?
 New Tab uses Bulma’s CSS framework. 
 
+
